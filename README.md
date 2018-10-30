@@ -1,2 +1,2 @@
-# php_socket
+# php_wesocket
 phpwebsocket_example
